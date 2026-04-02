@@ -1,3 +1,3 @@
 # GitTest
 
-test
+Test app to try out Git features in Code on the Go
